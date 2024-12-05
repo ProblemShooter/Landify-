@@ -110,7 +110,7 @@ const Front = () => {
                 </div>
                 <div className="w-full md:w-1/5 px-4">
                     <img
-                        src="src/assets/landify-image.jpg"
+                        src="https://images.pexels.com/photos/29644194/pexels-photo-29644194.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
                         alt="Logo"
                         className="w-full h-auto rounded-lg shadow-lg"
                     />
