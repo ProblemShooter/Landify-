@@ -79,10 +79,10 @@ const Front = () => {
                         Contact
                     </Link>
                     <Link
-                        to="/login"
+                        to="/News"
                         className="text-white font-medium px-4 py-2 rounded hover:bg-white hover:text-[#007BFF] transition-all"
                     >
-                        Login
+                        News
                     </Link>
                 </div>
             )}
