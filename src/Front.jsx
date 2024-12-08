@@ -67,7 +67,7 @@ const Front = () => {
                         Home
                     </Link>
                     <Link
-                        to="/aboutus"
+                        to="/about"
                         className="text-white font-medium px-4 py-2 rounded hover:bg-white hover:text-[#007BFF] transition-all"
                     >
                         About Us
