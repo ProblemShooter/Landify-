@@ -108,7 +108,7 @@ const Front = () => {
                         CONTACT US
                     </Link>
                 </div>
-                <div className="w-full md:w-1/5 px-4">
+                <div className="w-full md:w-1/5 px-4 mt-6 md:mt-0">
                     <img
                         src="https://images.pexels.com/photos/29644194/pexels-photo-29644194.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
                         alt="Logo"
@@ -141,7 +141,7 @@ const Front = () => {
                         </li>
                     </ul>
                 </div>
-                <div className="w-full md:w-1/3 px-4">
+                <div className="w-full md:w-1/3 px-4 mt-6 md:mt-0">
                     <img
                         src="https://kcppromoters.com/wp-content/uploads/2023/12/plant-growing-coins-glass-jar-money-green-grass-1-min-1400x700.jpg"
                         alt="Services Overview"
@@ -177,7 +177,7 @@ const Front = () => {
                         </li>
                     </ul>
                 </div>
-                <div className="w-full md:w-1/3 px-4">
+                <div className="w-full md:w-1/3 px-4 mt-6 md:mt-0">
                     <img
                         src="https://img.freepik.com/free-photo/multiracial-group-young-creative-people-smart-casual-wear-discussing-business-shaking-hands-together_7861-3059.jpg"
                         alt="Work With Us"
