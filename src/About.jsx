@@ -8,7 +8,6 @@ const About = () => {
   const toggleDetails = (index) => {
     setIsOpen(isOpen === index ? null : index); // Toggle the section's visibility
   };
-
   return (
     <div className="bg-[#007BFF] text-white min-h-screen flex flex-col scroll-smooth">
       {/* Navigation Button */}
